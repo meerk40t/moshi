@@ -292,6 +292,7 @@ a60000f2ddff3dcf0465deffa20100670200b63c10653d10c76310c8d204d262a610
 
 I believe this to be a triplet code with a6 at the first byte and the penultimate byte being instructions for the CH341 chip to do a mem-write.
 
+```
 Offset(h) 00 01 02
 
 00000000  6B 0F 23  k.#
@@ -3217,6 +3218,6 @@ Offset(h) 00 01 02
 00002238  63 10 C8  c.È
 0000223B  D2 04 D2  Ò.Ò
 0000223E  62 A6 10  b¦.
-
+```
 
 
