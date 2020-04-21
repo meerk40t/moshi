@@ -31,7 +31,7 @@ https://github.com/meerk40t/moshi/wiki
 * Does this format change a bunch for other versions of the Moshiboard before or after version 4.2?
 
 # Unknown Unknowns
-* <shrug>
+* (shrug)
 
 # Project Future
 
